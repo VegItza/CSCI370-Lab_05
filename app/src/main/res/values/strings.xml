@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab5_Carrillo</string>
+    <string name="enterUserNameId">com.example.lab5_carrillo.enterUserNameId</string>
 </resources>
